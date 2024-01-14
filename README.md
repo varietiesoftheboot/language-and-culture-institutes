@@ -2,7 +2,7 @@
 
 This repository contains a curated collection of language and culture institutes and related entities in Italy. It accompanies the following publication:
 
-Alan Ramponi. 2023. **Language Varieties of Italy: Technology Challenges and Opportunities**. (to appear) [[cite]](#citation) [[preprint]](https://arxiv.org/abs/2209.09757)
+Alan Ramponi. 2024. **Language Varieties of Italy: Technology Challenges and Opportunities**. *Transactions of the Association for Computational Linguistics*, 12, 19–38. DOI: doi.org/10.1162/tacl_a_00631 [[cite]](#citation) [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00631/119058/Language-Varieties-of-Italy-Technology-Challenges)
 
 
 ## List of entities by language variety
@@ -299,11 +299,17 @@ Alan Ramponi. 2023. **Language Varieties of Italy: Technology Challenges and Opp
 If you find this collection useful for your work, please cite our paper as follows:
 
 ```
-@article{ramponi-2022-language,
-	title={{NLP} for language varieties of {I}taly: Challenges and the path forward},
-	author={Ramponi, Alan},
-	journal={arXiv preprint arXiv:2209.09757},
-	year={2022},
-	url={https://arxiv.org/abs/2209.09757}
+@article{ramponi-2024-language,
+    author = {Ramponi, Alan},
+    title = "{Language Varieties of Italy: Technology Challenges and Opportunities}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {12},
+    pages = {19-38},
+    year = {2024},
+    month = {01},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00631},
+    url = {https://doi.org/10.1162/tacl\_a\_00631},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00631/2208870/tacl\_a\_00631.pdf},
 }
 ```
